@@ -1,6 +1,6 @@
 int pirPin = 7;
 int ledPin = 13;
-int buzzerPin = 12;
+int buzzerPin = 8;
 int count = 0;
 
 void setup() {
